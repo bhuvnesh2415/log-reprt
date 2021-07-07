@@ -1,0 +1,109 @@
+.all{
+  display: flex;
+  position: absolute;
+  width: 100%;
+}
+.one{
+  background-color:#0F9D58;
+  position: absolute;
+  width: 28.5%;
+  height: 206px;
+  left: 257px;
+  top: 134px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 9px 1px rgba(15, 157, 88, 0.25);
+  border-radius: 14px;
+  padding-left: 20px;
+  cursor: pointer;
+  
+
+}
+.two{
+  background: #9A4C95;
+  position: absolute;
+  width: 24%;
+  height: 206px;
+  left: 736px;
+  top: 134px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 9px 1px rgba(154, 76, 149, 0.25);
+  border-radius: 14px;
+  padding-left: 20px;
+  cursor: pointer;
+
+
+}
+.three{
+  background-color: #DB4437;
+  position: absolute;
+  width: 23%;
+  height: 206px;
+  left: 257px;
+  top: 359px;
+  padding-left: 20px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 9px 1px rgba(219, 68, 55, 0.25);
+  border-radius: 14px;
+  cursor: pointer;
+
+}
+.four{
+  background-color: #F4B400;
+  position: absolute;
+  width: 30%;
+  height: 206px;
+  left: 627px;
+  top: 359px;
+  margin-left: 20px;
+  padding-left: 20px;
+  background: #FFFFFF;
+  box-shadow: 1px 1px 9px 1px rgba(244, 180, 0, 0.25);
+  border-radius: 14px;
+  margin-right: 20px;
+  cursor: pointer;
+
+}
+.one-one{
+  color: #0F9D58;
+}
+.two-two{
+  color:#9A4C95;
+}
+.three-three{
+  color:#DB4437 ;
+}
+.four-four{
+  color: #F4B400;
+}
+.img-one{
+  position:absolute;
+  bottom: 10%;
+  right: 8%;
+  width: 155px;
+  height: 129px;
+
+}
+.img-two{
+  position: absolute;
+width: 145px;
+height: 119px;
+bottom: 10%;
+right: 8%;
+
+}
+.img-three{
+  position: absolute;
+  width: 145px;
+  height: 119px;
+  bottom: 10%;
+  right: 8%;
+  
+}
+.img-four{
+  position: absolute;
+  width: 145px;
+  height: 129px;
+ bottom: 10%;
+  right: 8%;
+
+}

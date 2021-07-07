@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main1{
+  margin-top: 0.2%;
+background-color: rgb(65, 11, 241);
+color: white;
+padding-top: 0.2%;
+padding-bottom: 0.2%;
+}
